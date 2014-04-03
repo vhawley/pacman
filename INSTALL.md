@@ -6,7 +6,6 @@ libx11-dev
 Install (shell commands):
 
 1. cd (to directory containing project)
-
 2. make
 
 
